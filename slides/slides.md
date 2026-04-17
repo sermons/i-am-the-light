@@ -17,6 +17,11 @@
 
 [pxhere](https://pxhere.com/en/photo/1094065 "caption")
 
+>>>
++ ch7-8: feast of **tabernacles**
++ 7:37: if anyone **thirsts**
+  + invitation
+
 ---
 <!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> id="outline" class="outline" -->
 ## Light of the World (Jn8)
@@ -24,6 +29,10 @@
 1. True Judgment (v15-18)
 1. True Son (v19-20)
 1. True Light (v12)
+
+>>>
++ 2 parts: Phar **reaction**
+  + Jesus' **invitation**
 
 ---
 So the Pharisees said to him, <br/>
@@ -39,7 +48,7 @@ about myself, my **testimony** is true,
 for I know where I **came from** <br/>
 and where I am **going**, 
 
-but you do not know where I come from <br/>
+but you do **not know** where I come from <br/>
 or where I am going. 
 
 [John 8:14 (ESV)](# "ref")
@@ -80,9 +89,11 @@ bears witness about me.
 1. True Light (v12)
 
 ---
-They said to him therefore, “**Where** is your Father?” 
+They said to him therefore, <br/>
+“**Where** is your Father?” 
 
-Jesus answered, “You know neither me nor my Father. <br/>
+Jesus answered, <br/>
+“You know **neither** me nor my Father. <br/>
 If you **knew me**, <br/>
 you would **know my Father** also.” 
 
@@ -115,10 +126,10 @@ children of the day
 [1 Thessalonians 5:4-5 (ESV)](# "ref")
 
 ---
-Walk as **children of light**
+Walk as **children of light** --
 
-(for the **fruit** of light is found in <br/>
-all that is good and right and true), 
+for the **fruit** of light is found <br/>
+in all that is good and right and true --
 
 and try to discern what is **pleasing** to the Lord.
 
