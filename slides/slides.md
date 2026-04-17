@@ -26,21 +26,21 @@
 1. True Light (v12)
 
 ---
-So the Pharisees said to him, 
-“You are **bearing witness** about yourself; 
+So the Pharisees said to him, <br/>
+“You are **bearing witness** about yourself; <br/>
 your testimony is not **true**.” 
 
 [John 8:13 (ESV)](# "ref")
 
-Jesus answered, “Even if I do <br/>
-bear witness about myself, <br/>
-my **testimony** is true, 
+---
+Jesus answered, “Even if I do bear witness <br/>
+about myself, my **testimony** is true, 
 
 for I know where I **came from** <br/>
 and where I am **going**, 
 
-but you do not know where I <br/>
-come from or where I am going. 
+but you do not know where I come from <br/>
+or where I am going. 
 
 [John 8:14 (ESV)](# "ref")
 
@@ -53,21 +53,20 @@ come from or where I am going.
 1. True Light (v12)
 
 ---
-You **judge** according to the **flesh**; 
-I judge no one. 
+You **judge** according to the **flesh**; I judge no one. 
 
-Yet even if I do judge, my judgment is **true**, 
-for it is not I alone who judge, 
+Yet even if I do judge, my judgment is **true**, <br/>
+for it is not I alone who judge, <br/>
 but **I** and the **Father** who sent me. 
 
 [John 8:15-16 (ESV)](# "ref")
 
 ---
-In your Law it is written that the 
+In your Law it is written that the <br/>
 testimony of **two people** is true. 
 
-**I** am the one who bears witness about myself, 
-and the **Father** who sent me 
+**I** am the one who bears witness about myself, <br/>
+and the **Father** who sent me <br/>
 bears witness about me.
 
 [John 8:17-18 (ESV)](# "ref")
@@ -80,12 +79,11 @@ bears witness about me.
 1. **True Son** (v19-20)
 1. True Light (v12)
 
-They said to him therefore, 
-“**Where** is your Father?” 
+---
+They said to him therefore, “**Where** is your Father?” 
 
-Jesus answered, 
-“You know neither me nor my Father. 
-If you **knew me**, 
+Jesus answered, “You know neither me nor my Father. <br/>
+If you **knew me**, <br/>
 you would **know my Father** also.” 
 
 [John 8:19-20 (ESV)](# "ref")
@@ -107,3 +105,21 @@ but will have the light of **life**.
 
 [John 8:12 (ESV)](# "ref")
 
+---
+But you are not in **darkness**, brothers, <br/>
+for that day to **surprise** you like a thief. 
+
+For you are all **children of light**, <br/>
+children of the day
+
+[1 Thessalonians 5:4-5 (ESV)](# "ref")
+
+---
+Walk as **children of light**
+
+(for the **fruit** of light is found in <br/>
+all that is good and right and true), 
+
+and try to discern what is **pleasing** to the Lord.
+
+[Ephesians 5:8-10 (ESV)](# "ref")
