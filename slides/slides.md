@@ -1,7 +1,8 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> id="title" -->
 ## I AM: the 
 # Light of the World
 ## John 8:12-20 
+[Ricardo Gomez Angel](https://unsplash.com/photos/-lYk9rDI2UU "caption")
 
 ---
 <!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
@@ -23,7 +24,7 @@
   + invitation
 
 ---
-<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> id="outline" class="outline" -->
 ## Light of the World (Jn8)
 1. True Testimony (v13-14)
 1. True Judgment (v15-18)
@@ -53,8 +54,15 @@ or where I am going.
 
 [John 8:14 (ESV)](# "ref")
 
+>>>
++ **from-where** I-come, **to-where** I-go
++ from-where: **Father**, authority
+  + Messiah: **anointed**, sent
++ to-where: back to Father's side
+  + but via **cross*
+
 ---
-<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> class="outline" -->
 ## Light of the World (Jn8)
 1. True Testimony (v13-14)
 1. **True Judgment** (v15-18)
@@ -70,6 +78,24 @@ but **I** and the **Father** who sent me.
 
 [John 8:15-16 (ESV)](# "ref")
 
+>>>
++ "judge no one": 
+
+---
+For God did not send his Son <br/>
+into the world to **condemn** the world, 
+
+but in order that the world <br/>
+might be **saved** through him.
+
+[John 3:17 (ESV)](# "ref")
+
+>>>
++ 1st coming: suffering Servant
+  + work of redemption
++ 2nd coming: victorious King
+  + final judgment
+
 ---
 In your Law it is written that the <br/>
 testimony of **two people** is true. 
@@ -80,8 +106,17 @@ bears witness about me.
 
 [John 8:17-18 (ESV)](# "ref")
 
+>>>
++ need 2-3 witnesses:
+  + not to **change** reality
++ but to **discern** truth
+  + amid **unreliable** witnesses
++ Dt17:6: for **death** penalty
++ Father + Son have auth to **judge**
+  + death penalty imposed upon Jesus
+
 ---
-<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> class="outline" -->
 ## Light of the World (Jn8)
 1. True Testimony (v13-14)
 1. True Judgment (v15-18)
@@ -99,8 +134,25 @@ you would **know my Father** also.”
 
 [John 8:19-20 (ESV)](# "ref")
 
+>>>
++ Jesus draws auth from **Father**
++ "where": localised, specific kingdom
+  + i.e., not here
++ "I AM": the only God, omnipresent
+
 ---
-<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> class="outline" -->
+<!-- .slide: data-background="white" -->
+# How have we **questioned** <br/> the **authority** of the Bible?
+<!-- .element: class="r-fit-text" -->
+
+>>>
++ What has been our **faith journey**?
++ What questions have **others** raised?
++ How does Jesus' reply in v13-19
+  + **challenge** those who disbelieve?
+
+---
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> class="outline" -->
 ## Light of the World (Jn8)
 1. True Testimony (v13-14)
 1. True Judgment (v15-18)
@@ -115,6 +167,13 @@ will not **walk** in darkness, <br/>
 but will have the light of **life**.
 
 [John 8:12 (ESV)](# "ref")
+
+>>>
++ lets us **see** clearly
+  + to not **stumble**
++ reveals **dirt** / flaws
+  + not to **condemn**, 
+  + but to **cleanse**
 
 ---
 But you are not in **darkness**, brothers, <br/>
@@ -134,3 +193,11 @@ in all that is good and right and true --
 and try to discern what is **pleasing** to the Lord.
 
 [Ephesians 5:8-10 (ESV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# How can we walk as <br/> **children of light**?
+<!-- .element: class="r-fit-text" -->
+
+---
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> class="empty" -->
